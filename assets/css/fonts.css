@@ -1,0 +1,43 @@
+
+/* font-family: Abel;*/
+@font-face {
+    font-family: Abel;
+    src: url('../../fonts/Abel/Abel-Regular.ttf');
+}
+
+
+/*font-family: 'Atomic Age'*/
+@font-face {
+    font-family: Atomic Age;
+    src: url('../../fonts/Atomic_Age/AtomicAge-Regular.ttf');
+}
+
+/*font-family: 'Black Ops One*/
+@font-face {
+    font-family: Black Ops One;
+    src: url('../../fonts/Black_Ops_One/BlackOpsOne-Regular.ttf');
+}
+
+/*font-family: 'Gotu'*/
+@font-face {
+    font-family: Gotu;
+    src: url('../../fonts/Gotu/Gotu-Regular.ttf');
+}
+
+/*font-family: 'Livvic*/
+@font-face {
+    font-family: Livvic;
+    src: url('../../fonts/Livvic/Livvic-Regular.ttf');
+}
+
+/*font-family: 'Reenie Beanie*/
+@font-face {
+    font-family: Reenie Beanie;
+    src: url('../../fonts/Reenie_Beanie/ReenieBeanie-Regular.ttf');
+}
+
+/*font-family: 'Sarina'*/
+@font-face {
+    font-family: Sarina;
+    src: url('../../fonts/Sarina/Sarina-Regular.ttf');
+}
